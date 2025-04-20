@@ -1,4 +1,4 @@
 # VivekSingh-demo
 This is my first Git Repository.
 <br>
-Author- Vivek Kumar Singh
+Author- Vivek Singh OVGU
